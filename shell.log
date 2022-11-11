@@ -1,0 +1,464 @@
+Log: [ Sat Nov  5 14:39:57 2022
+ ] "ls" - 6952 terminated
+Log: [ Sat Nov  5 14:40:00 2022
+ ] "ls" - 6954 terminated
+Log: [ Sat Nov  5 14:40:12 2022
+ ] "cat" - 6956 terminated
+Log: [ Sat Nov  5 14:40:25 2022
+ ] "cat" - 6961 terminated
+Log: [ Sat Nov  5 14:41:18 2022
+ ] "cat" - 6965 terminated
+Log: [ Sat Nov  5 14:41:32 2022
+ ] "ls" - 6967 terminated
+Log: [ Sat Nov  5 14:41:50 2022
+ ] "cat" - 6970 terminated
+Log: [ Sat Nov  5 14:42:52 2022
+ ] "ls" - 6996 terminated
+Log: [ Sat Nov  5 14:42:56 2022
+ ] "cat" - 6997 terminated
+Log: [ Sat Nov  5 14:43:04 2022
+ ] "cat" - 6999 terminated
+Log: [ Sat Nov  5 14:44:11 2022
+ ] "ls" - 7065 terminated
+Log: [ Sat Nov  5 14:44:23 2022
+ ] "ls" - 7066 terminated
+Log: [ Sat Nov  5 14:50:57 2022
+ ] "ls" - 7187 terminated
+Log: [ Sat Nov  5 14:51:00 2022
+ ] "ls" - 7188 terminated
+Log: [ Sat Nov  5 14:51:07 2022
+ ] "ls" - 7189 terminated
+Log: [ Sat Nov  5 14:51:11 2022
+ ] "car" - -1 terminated
+Log: [ Sat Nov  5 14:51:15 2022
+ ] "cat" - 7191 terminated
+Log: [ Sat Nov  5 14:51:25 2022
+ ] "cat" - 7192 terminated
+Log: [ Sat Nov  5 14:51:25 2022
+ ] "car" - 7190 terminated
+Log: [ Sat Nov  5 14:51:31 2022
+ ] "cat" - 7193 terminated
+Log: [ Sat Nov  5 15:05:35 2022
+ ] "ls" - 7477 terminated
+Log: [ Sat Nov  5 15:05:38 2022
+ ] "ls" - 7478 terminated
+Log: [ Sat Nov  5 15:05:49 2022
+ ] "ls" - 7479 terminated
+Log: [ Sat Nov  5 15:05:53 2022
+ ] "cat" - 7482 terminated
+Log: [ Sat Nov  5 15:05:59 2022
+ ] "cat" - 7483 terminated
+Log: [ Sat Nov  5 15:15:53 2022
+ ] "ls" - 7756 terminated
+Log: [ Sat Nov  5 15:15:57 2022
+ ] "ls" - 7757 terminated
+Log: [ Sat Nov  5 15:16:01 2022
+ ] "clear" - 7762 terminated
+Log: [ Sat Nov  5 15:16:16 2022
+ ] "ls" - 7765 terminated
+Log: [ Sat Nov  5 15:16:22 2022
+ ] "cat" - 7769 terminated
+Log: [ Sat Nov  5 15:16:33 2022
+ ] "cat" - 7771 terminated
+Log: [ Sat Nov  5 15:16:38 2022
+ ] "cat" - 7773 terminated
+Log: [ Sat Nov  5 20:13:03 2022
+ ] "ls" - 5600 terminated
+Log: [ Sat Nov  5 20:13:08 2022
+ ] "ls" - 5601 terminated
+Log: [ Sat Nov  5 20:13:15 2022
+ ] "ls" - 5606 terminated
+Log: [ Sat Nov  5 20:13:24 2022
+ ] "cat" - 5607 terminated
+Log: [ Sat Nov  5 20:13:31 2022
+ ] "cat" - 5608 terminated
+Log: [ Sat Nov  5 20:14:00 2022
+ ] "cd" - -1 terminated
+Log: [ Sat Nov  5 20:14:09 2022
+ ] "ls" - 5614 terminated
+Log: [ Sat Nov  5 20:54:23 2022
+ ] "ls" - 5972 terminated
+Log: [ Sat Nov  5 20:54:33 2022
+ ] "ls" - 5973 terminated
+Log: [ Sat Nov  5 20:55:03 2022
+ ] "ls" - 5978 terminated
+Log: [ Sat Nov  5 20:57:20 2022
+ ] ";s" - -1 terminated
+Log: [ Sat Nov  5 20:57:21 2022
+ ] "ls" - 6057 terminated
+Log: [ Sat Nov  5 21:09:12 2022
+ ] ";s" - -1 terminated
+Log: [ Sat Nov  5 21:09:14 2022
+ ] "ls" - 6168 terminated
+Log: [ Sat Nov  5 21:09:56 2022
+ ] "ls" - 6186 terminated
+Log: [ Sat Nov  5 21:13:52 2022
+ ] "ls" - 6244 terminated
+Log: [ Sat Nov  5 21:15:22 2022
+ ] "ls" - 6266 terminated
+Log: [ Sat Nov  5 21:16:29 2022
+ ] "ls" - 6289 terminated
+Log: [ Sat Nov  5 21:16:33 2022
+ ] "ls" - 6290 terminated
+Log: [ Sat Nov  5 21:17:00 2022
+ ] "ls" - 6292 terminated
+Log: [ Sat Nov  5 21:17:00 2022
+ ] "ls" - 6293 terminated
+Log: [ Sat Nov  5 21:17:19 2022
+ ] "ls" - 6299 terminated
+Log: [ Sat Nov  5 21:17:23 2022
+ ] "ls" - 6301 terminated
+Log: [ Sat Nov  5 21:17:28 2022
+ ] "cat" - 6305 terminated
+Log: [ Sat Nov  5 21:18:34 2022
+ ] "ls" - 6322 terminated
+Log: [ Sat Nov  5 21:18:41 2022
+ ] "ls" - 6323 terminated
+Log: [ Sat Nov  5 21:18:41 2022
+ ] "ls" - 6324 terminated
+Log: [ Sat Nov  5 21:22:14 2022
+ ] "ls" - 6390 terminated
+Log: [ Sat Nov  5 21:22:20 2022
+ ] "ls" - 6391 terminated
+Log: [ Sat Nov  5 21:22:20 2022
+ ] "ls" - 6392 terminated
+Log: [ Sat Nov  5 21:24:15 2022
+ ] "ls" - 6436 terminated
+Log: [ Sat Nov  5 21:25:21 2022
+ ] "ls" - 6467 terminated
+Log: [ Sat Nov  5 21:25:29 2022
+ ] "ls" - 6468 terminated
+Log: [ Sat Nov  5 21:25:29 2022
+ ] "ls" - 6469 terminated
+Log: [ Sat Nov  5 21:26:29 2022
+ ] "ls" - 6489 terminated
+Log: [ Sat Nov  5 21:26:56 2022
+ ] "ls" - 6506 terminated
+Log: [ Sat Nov  5 21:27:01 2022
+ ] "ls" - 6507 terminated
+Log: [ Sat Nov  5 21:27:01 2022
+ ] "ls" - 6508 terminated
+Log: [ Sat Nov  5 21:40:15 2022
+ ] "ls" - 6589 terminated
+Log: [ Sat Nov  5 21:40:51 2022
+ ] "ls" - 6593 terminated
+Log: [ Sat Nov  5 21:40:59 2022
+ ] "cat" - 6595 terminated
+Log: [ Sat Nov  5 21:42:33 2022
+ ] "ls" - 6616 terminated
+Log: [ Sat Nov  5 21:47:06 2022
+ ] "ls" - 6662 terminated
+Log: [ Sat Nov  5 21:47:33 2022
+ ] "ls" - 6663 terminated
+Log: [ Sat Nov  5 21:47:33 2022
+ ] "ls" - 6664 terminated
+Log: [ Sat Nov  5 21:48:23 2022
+ ] "ls" - 6680 terminated
+Log: [ Sat Nov  5 21:55:27 2022
+ ] "ls" - 6728 terminated
+Log: [ Sat Nov  5 22:03:57 2022
+ ] "ls" - 6817 terminated
+Log: [ Sat Nov  5 22:04:09 2022
+ ] "ls" - 6824 terminated
+Log: [ Sat Nov  5 22:04:09 2022
+ ] "ls" - 6825 terminated
+Log: [ Sat Nov  5 23:17:02 2022
+ ] "echo" - 7246 terminated
+Log: [ Sat Nov  5 23:23:35 2022
+ ] "cat" - 7260 terminated
+Log: [ Sat Nov  5 23:31:11 2022
+ ] "ls" - 7318 terminated
+Log: [ Sat Nov  5 23:31:19 2022
+ ] "cat" - 7322 terminated
+Log: [ Sat Nov  5 23:34:42 2022
+ ] "ls" - 7383 terminated
+Log: [ Sat Nov  5 23:35:02 2022
+ ] "ls" - 7398 terminated
+Log: [ Sat Nov  5 23:35:27 2022
+ ] "ls" - 7412 terminated
+Log: [ Sat Nov  5 23:35:47 2022
+ ] "ls" - 7424 terminated
+Log: [ Sat Nov  5 23:36:05 2022
+ ] "ls" - 7425 terminated
+Log: [ Sat Nov  5 23:46:31 2022
+ ] "ls" - 7504 terminated
+Log: [ Sat Nov  5 23:46:33 2022
+ ] "ls" - 7505 terminated
+Log: [ Sat Nov  5 23:46:40 2022
+ ] "ls>abc.txt" - -1 terminated
+Log: [ Sat Nov  5 23:47:11 2022
+ ] "ls" - 7520 terminated
+Log: [ Sat Nov  5 23:48:00 2022
+ ] "ls" - 7533 terminated
+Log: [ Sat Nov  5 23:48:04 2022
+ ] "ls" - 7534 terminated
+Log: [ Sat Nov  5 23:48:29 2022
+ ] "ls" - 7548 terminated
+Log: [ Sat Nov  5 23:49:19 2022
+ ] "ls" - 7553 terminated
+Log: [ Sat Nov  5 23:49:35 2022
+ ] "cat" - 7555 terminated
+Log: [ Sat Nov  5 23:49:49 2022
+ ] "ls" - 7556 terminated
+Log: [ Sat Nov  5 23:50:18 2022
+ ] "ls" - 7569 terminated
+Log: [ Sat Nov  5 23:50:22 2022
+ ] "ls" - 7570 terminated
+Log: [ Sat Nov  5 23:50:31 2022
+ ] "ls" - 7571 terminated
+Log: [ Sat Nov  5 23:50:44 2022
+ ] "ls" - 7574 terminated
+Log: [ Sat Nov  5 23:51:55 2022
+ ] "ls" - 7637 terminated
+Log: [ Sat Nov  5 23:52:00 2022
+ ] "ls" - 7638 terminated
+Log: [ Sat Nov  5 23:52:04 2022
+ ] "ls" - 7641 terminated
+Log: [ Sat Nov  5 23:53:35 2022
+ ] "ls" - 7695 terminated
+Log: [ Sat Nov  5 23:53:38 2022
+ ] "ls" - 7696 terminated
+Log: [ Sat Nov  5 23:53:43 2022
+ ] "ls" - 7698 terminated
+Log: [ Sat Nov  5 23:53:51 2022
+ ] "ls" - 7699 terminated
+Log: [ Sat Nov  5 23:53:56 2022
+ ] "cat" - 7700 terminated
+Log: [ Sat Nov  5 23:54:03 2022
+ ] "ls" - 7701 terminated
+Log: [ Sat Nov  5 23:54:47 2022
+ ] "ls" - 7715 terminated
+Log: [ Sat Nov  5 23:56:56 2022
+ ] "ls" - 7799 terminated
+Log: [ Sun Nov  6 00:00:22 2022
+ ] "ls" - 7900 terminated
+Log: [ Sun Nov  6 00:04:56 2022
+ ] "ls" - 7951 terminated
+Log: [ Sun Nov  6 00:05:48 2022
+ ] "ls" - 7978 terminated
+Log: [ Sun Nov  6 00:05:50 2022
+ ] "ls" - 7979 terminated
+Log: [ Sun Nov  6 00:07:38 2022
+ ] "ls" - 8001 terminated
+Log: [ Sun Nov  6 00:16:32 2022
+ ] "ls" - 8117 terminated
+Log: [ Sun Nov  6 00:16:40 2022
+ ] "ls;jdgfds'" - -1 terminated
+Log: [ Sun Nov  6 00:16:56 2022
+ ] "lsdfa0[2~lk;fjfpaiq\\/*-=-0-`" - -1 terminated
+Log: [ Sun Nov  6 00:20:01 2022
+ ] "ls" - 8180 terminated
+Log: [ Sun Nov  6 00:20:09 2022
+ ] "ls" - 8181 terminated
+Log: [ Sun Nov  6 00:20:09 2022
+ ] "ls" - 8182 terminated
+Log: [ Sun Nov  6 00:20:54 2022
+ ] "ls" - 8207 terminated
+Log: [ Sun Nov  6 00:21:32 2022
+ ] "ls" - 8227 terminated
+Log: [ Sun Nov  6 00:22:09 2022
+ ] "ls" - 8244 terminated
+Log: [ Sun Nov  6 00:22:29 2022
+ ] "ls" - 8258 terminated
+Log: [ Sun Nov  6 00:22:32 2022
+ ] "ls-al" - -1 terminated
+Log: [ Sun Nov  6 00:22:37 2022
+ ] "ls" - 8262 terminated
+Log: [ Sun Nov  6 00:23:51 2022
+ ] "ls" - 8300 terminated
+Log: [ Sun Nov  6 00:24:32 2022
+ ] "ls" - 8320 terminated
+Log: [ Sun Nov  6 00:24:34 2022
+ ] "ls" - 8321 terminated
+Log: [ Sun Nov  6 00:24:52 2022
+ ] "ls" - 8322 terminated
+Log: [ Sun Nov  6 00:25:24 2022
+ ] "ls" - 8340 terminated
+Log: [ Sun Nov  6 00:25:38 2022
+ ] "ls" - 8355 terminated
+Log: [ Sun Nov  6 00:26:00 2022
+ ] "ls" - 8369 terminated
+Log: [ Sun Nov  6 00:26:02 2022
+ ] "ls" - 8370 terminated
+Log: [ Sun Nov  6 00:29:20 2022
+ ] "ls" - 8425 terminated
+Log: [ Sun Nov  6 00:33:16 2022
+ ] "ls" - 8486 terminated
+Log: [ Sun Nov  6 00:33:20 2022
+ ] "ls" - 8487 terminated
+Log: [ Sun Nov  6 00:35:34 2022
+ ] "ls" - 8518 terminated
+Log: [ Sun Nov  6 00:39:50 2022
+ ] "ls" - 8550 terminated
+Log: [ Sun Nov  6 00:39:56 2022
+ ] "ls" - 8551 terminated
+Log: [ Sun Nov  6 00:41:56 2022
+ ] "ls" - 8579 terminated
+Log: [ Sun Nov  6 00:42:11 2022
+ ] "ls" - 8620 terminated
+Log: [ Sun Nov  6 00:45:46 2022
+ ] "ls" - 8753 terminated
+Log: [ Sun Nov  6 00:45:55 2022
+ ] "ls" - 8776 terminated
+Log: [ Sun Nov  6 00:52:40 2022
+ ] "ls" - 8961 terminated
+Log: [ Sun Nov  6 00:53:20 2022
+ ] "ls" - 8992 terminated
+Log: [ Sun Nov  6 00:57:02 2022
+ ] "ls" - 9091 terminated
+Log: [ Sun Nov  6 00:57:06 2022
+ ] "ls" - 9092 terminated
+Log: [ Sun Nov  6 00:57:43 2022
+ ] "cat" - 9097 terminated
+Log: [ Sun Nov  6 00:58:55 2022
+ ] "ls" - 9128 terminated
+Log: [ Sun Nov  6 00:59:04 2022
+ ] "cat" - 9129 terminated
+Log: [ Sun Nov  6 01:09:33 2022
+ ] "ls" - 9268 terminated
+Log: [ Sun Nov  6 01:09:44 2022
+ ] "ls" - 9269 terminated
+Log: [ Sun Nov  6 01:16:16 2022
+ ] "ls" - 9288 terminated
+Log: [ Sun Nov  6 01:16:23 2022
+ ] "ls" - 9305 terminated
+Log: [ Sun Nov  6 01:16:27 2022
+ ] "ls" - 9308 terminated
+Log: [ Sun Nov  6 01:18:32 2022
+ ] "ls" - 9330 terminated
+Log: [ Sun Nov  6 01:18:37 2022
+ ] "ls" - 9331 terminated
+Log: [ Sun Nov  6 01:22:53 2022
+ ] "ls" - 9371 terminated
+Log: [ Sun Nov  6 01:23:18 2022
+ ] "ls" - 9382 terminated
+Log: [ Sun Nov  6 01:24:40 2022
+ ] "ls" - 9409 terminated
+Log: [ Sun Nov  6 01:30:50 2022
+ ] "ls" - 9443 terminated
+Log: [ Sun Nov  6 01:31:34 2022
+ ] "ls" - 9471 terminated
+Log: [ Sun Nov  6 01:31:37 2022
+ ] "ls" - 9472 terminated
+Log: [ Sun Nov  6 01:31:44 2022
+ ] "ls" - 9473 terminated
+Log: [ Sun Nov  6 01:32:01 2022
+ ] "ls" - 9475 terminated
+Log: [ Sun Nov  6 01:32:52 2022
+ ] "ls" - 9491 terminated
+Log: [ Sun Nov  6 01:32:57 2022
+ ] "ls" - 9492 terminated
+Log: [ Sun Nov  6 01:33:36 2022
+ ] "ls" - 9509 terminated
+Log: [ Sun Nov  6 01:33:40 2022
+ ] "ls" - 9511 terminated
+Log: [ Sun Nov  6 01:43:07 2022
+ ] "ls" - 9567 terminated
+Log: [ Sun Nov  6 01:45:55 2022
+ ] "ls" - 9615 terminated
+Log: [ Sun Nov  6 01:46:09 2022
+ ] "ls" - 9617 terminated
+Log: [ Sun Nov  6 01:46:33 2022
+ ] "ls" - 9645 terminated
+Log: [ Sun Nov  6 01:46:59 2022
+ ] "ls" - 9660 terminated
+Log: [ Sun Nov  6 01:47:55 2022
+ ] "ls" - 9677 terminated
+Log: [ Sun Nov  6 01:48:15 2022
+ ] "ls" - 9692 terminated
+Log: [ Sun Nov  6 01:48:52 2022
+ ] "ls" - 9744 terminated
+Log: [ Sun Nov  6 01:49:01 2022
+ ] "ls" - 9746 terminated
+Log: [ Sun Nov  6 01:49:01 2022
+ ] "ls" - 9747 terminated
+Log: [ Sun Nov  6 01:49:25 2022
+ ] "ls" - 9764 terminated
+Log: [ Sun Nov  6 01:50:04 2022
+ ] "ls" - 9791 terminated
+Log: [ Sun Nov  6 01:50:30 2022
+ ] "ls" - 9806 terminated
+Log: [ Sun Nov  6 01:51:24 2022
+ ] "ls" - 9824 terminated
+Log: [ Sun Nov  6 01:51:28 2022
+ ] "ls" - 9825 terminated
+Log: [ Sun Nov  6 01:55:11 2022
+ ] "ls" - 9936 terminated
+Log: [ Sun Nov  6 01:55:25 2022
+ ] "ls" - 9938 terminated
+Log: [ Sun Nov  6 01:55:25 2022
+ ] "ls" - 9939 terminated
+Log: [ Sun Nov  6 01:55:30 2022
+ ] "ls" - 9941 terminated
+Log: [ Sun Nov  6 01:56:14 2022
+ ] "ls" - 9994 terminated
+Log: [ Sun Nov  6 01:56:16 2022
+ ] "ls" - 9996 terminated
+Log: [ Sun Nov  6 01:58:48 2022
+ ] "ls" - 10052 terminated
+Log: [ Sun Nov  6 01:58:52 2022
+ ] "ls" - 10053 terminated
+Log: [ Sun Nov  6 01:59:47 2022
+ ] "ls" - 10105 terminated
+Log: [ Sun Nov  6 01:59:51 2022
+ ] "ls" - 10106 terminated
+Log: [ Sun Nov  6 02:02:30 2022
+ ] "ls" - 10198 terminated
+Log: [ Sun Nov  6 02:02:33 2022
+ ] "ls" - 10199 terminated
+Log: [ Sun Nov  6 02:25:16 2022
+ ] "ls" - 10298 terminated
+Log: [ Sun Nov  6 02:25:23 2022
+ ] "ls" - 10299 terminated
+Log: [ Sun Nov  6 02:26:05 2022
+ ] "ls" - 10307 terminated
+Log: [ Sun Nov  6 02:26:08 2022
+ ] "ls" - 10308 terminated
+Log: [ Sun Nov  6 02:26:20 2022
+ ] "cat" - 10309 terminated
+Log: [ Sun Nov  6 02:27:11 2022
+ ] "ls" - 10325 terminated
+Log: [ Sun Nov  6 02:27:14 2022
+ ] "ls" - 10327 terminated
+Log: [ Sun Nov  6 02:27:18 2022
+ ] "ls" - 10328 terminated
+Log: [ Sun Nov  6 02:27:43 2022
+ ] "ls" - 10343 terminated
+Log: [ Sun Nov  6 02:27:45 2022
+ ] "ls" - 10344 terminated
+Log: [ Sun Nov  6 02:27:54 2022
+ ] "cat" - 10345 terminated
+Log: [ Sun Nov  6 02:35:31 2022
+ ] "ls" - 10389 terminated
+Log: [ Sun Nov  6 02:35:35 2022
+ ] "ls" - 10390 terminated
+Log: [ Sun Nov  6 02:36:22 2022
+ ] "ls" - 10406 terminated
+Log: [ Sun Nov  6 02:36:24 2022
+ ] "ls" - 10407 terminated
+Log: [ Sun Nov  6 02:36:29 2022
+ ] "ls" - 10408 terminated
+Log: [ Sun Nov  6 02:36:38 2022
+ ] "ls" - 10409 terminated
+Log: [ Sun Nov  6 02:36:48 2022
+ ] "ls" - 10410 terminated
+Log: [ Sun Nov  6 02:37:17 2022
+ ] "ls" - 10427 terminated
+Log: [ Sun Nov  6 02:43:48 2022
+ ] "ls" - 10482 terminated
+Log: [ Sun Nov  6 02:43:58 2022
+ ] "ls" - 10484 terminated
+Log: [ Sun Nov  6 02:49:36 2022
+ ] "ls" - 10516 terminated
+Log: [ Sun Nov  6 02:49:40 2022
+ ] "ls" - 10517 terminated
+Log: [ Sun Nov  6 02:52:47 2022
+ ] "ls" - 10570 terminated
+Log: [ Sun Nov  6 02:53:19 2022
+ ] "ls" - 10586 terminated
+Log: [ Sun Nov  6 02:53:33 2022
+ ] "ls" - 10600 terminated
+Log: [ Sun Nov  6 02:53:39 2022
+ ] "ls" - 10601 terminated
+Log: [ Sun Nov  6 02:57:26 2022
+ ] "ls" - 10667 terminated
